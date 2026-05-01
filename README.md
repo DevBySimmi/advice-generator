@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌟 Random Advice Generator 🌟
 
 ## 🚀 Overview
@@ -72,3 +73,7 @@ This project is open-source and available under the **MIT License**.
 ---
 💡 Get inspired with just a click! 🚀
 
+=======
+# advice-generator
+A fun Python app for daily motivational advice.
+>>>>>>> 55a7da7c732dfcb1af2de9e8f544cb5403dd7c71
